@@ -2,6 +2,7 @@
 you can see nasa photos from earth or march in this project
 this project is using free nasa API so it's limited
 this program is written by HTML, CSS, Bootstrap and Javascript
+برای درست بودن از vpn استفاده کنید
 
 شما میتونین با وارد کردن مقدار های مختلف عکس های مختلفی رو از زمین یا مریخ از API ناسا ببینین.
 بیشتر تمرکز این پروژه کار روی API بوده.
