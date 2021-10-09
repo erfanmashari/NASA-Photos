@@ -108,7 +108,7 @@
 @media only screen and (max-width: 350px) {
     #body {
         background-position-x: center;
-        background-size: 220%;
+        background-size: 240%;
     }
 
     #cards {
