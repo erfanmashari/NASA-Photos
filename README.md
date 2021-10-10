@@ -1,6 +1,8 @@
 # NASA-Photos
-you can see nasa photos from earth or march in this project
+you can see nasa photos from earth or marس in this project
+
 this project is using free nasa API so it's limited
+
 this program is written by HTML, CSS, Bootstrap and Javascript
 
 برای درست بودن از vpn استفاده کنید
