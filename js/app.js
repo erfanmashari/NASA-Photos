@@ -278,7 +278,6 @@ function eventListeners() {
     // add event to form
     form.addEventListener("submit", e => {
         e.preventDefault()
-        console.log("02" === "2");
         // get values
         const planet = document.querySelector("#pic-type").value
         const dateButton = document.querySelector("#date-button").checked
