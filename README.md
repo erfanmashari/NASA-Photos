@@ -1,5 +1,5 @@
 # NASA-Photos
-you can see nasa photos from earth or marس in this project
+you can see nasa photos from earth or mars in this project
 
 this project is using free nasa API so it's limited
 
